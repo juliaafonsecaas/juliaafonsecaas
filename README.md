@@ -28,11 +28,6 @@
 
 ---
 
-### My portfolio:
-
-[ juliaafonsecaas.github.io](https://juliaafonsecaas.github.io)  
-
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B1192&height=120&section=footer"/>
 
