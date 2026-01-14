@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4B1192&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Júlia+Fonseca;Welcome+to+my+dev+world!+:%29)](https://git.io/typing-svg) 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
  
 ### Main skills:
