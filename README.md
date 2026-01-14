@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4B1192&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Júlia+Fonseca;Welcome+to+my+dev+world!+:%29)](https://git.io/typing-svg) 
 
-![Julia GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliaafonsecaas&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliaafonsecaas&layout=compact&theme=dracula)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
  
 ### Main skills:
